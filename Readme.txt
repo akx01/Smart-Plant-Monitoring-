@@ -24,7 +24,7 @@ An IoT-based smart plant monitoring system using **ESP32**, **Soil Moisture Sens
 
 ## 📐 Circuit Diagram
 
-Include a diagram here (Proteus/Wokwi or Fritzing screenshot).
+
 
 ---
 
